@@ -18,6 +18,8 @@ DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,smtcdns.net
 DOMAIN-SUFFIX,asuscomm.com
+DOMAIN-SUFFIX,aae-sgsip001-7.asuscomm.com
+DOMAIN-SUFFIX,aae.sgweb001-1.asuscomm.com
 IP-CIDR,45.43.32.234/32
 IP-CIDR,119.29.29.29/32
 IP-CIDR,128.1.62.200/32
