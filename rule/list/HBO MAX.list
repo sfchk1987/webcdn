@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hbonow.com
 DOMAIN-SUFFIX,tvbaw.com
 DOMAIN-SUFFIX,tvbanywherena.com
+DOMAIN-SUFFIX,execute-api.us-west-2.amazonaws.com
 USER-AGENT,HBOMAX*
 DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbomaxcdn.com
