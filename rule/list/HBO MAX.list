@@ -10,5 +10,6 @@ DOMAIN-SUFFIX,execute-api.us-west-2.amazonaws.com
 USER-AGENT,HBOMAX*
 DOMAIN-SUFFIX,hbomax.com
 DOMAIN-SUFFIX,hbomaxcdn.com
+DOMAIN-SUFFIX,ulivetv.net
 IP-CIDR,69.171.235.0/16,no-resolve
 DOMAIN-SUFFIX,aiguaji.top
